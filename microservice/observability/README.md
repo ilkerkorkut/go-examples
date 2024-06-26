@@ -24,8 +24,3 @@ Pre-requisites:
 ```bash
 docker-compose -f containers/docker-compose.yml up
 ```
-
-3. Start the microservice:
-```bash
-go run main.go
-```
